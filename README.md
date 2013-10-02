@@ -1,0 +1,1 @@
+This a simple script, which takes the files in your default Downloads folder and moves them to the folders on your desktop accorfing to the category. If there is no category folder, the script will create it.
